@@ -31,8 +31,8 @@ export default function ContactScreen() {
         <View style={styles.addressContainer}>
           <Text style={styles.buttonText}>Visit Us</Text>
           <Text style={styles.contactDetail}>
-            123 Innovation Street{'
-'}
+            123 Innovation Street
+            {"\n"}
             Digital City, DC 12345
           </Text>
         </View>
